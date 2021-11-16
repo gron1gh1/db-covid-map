@@ -1,0 +1,157 @@
+﻿{
+    "AREA": [
+        {
+            "DATE": "2021-11-15",
+            "NAME": "서울",
+            "CONFIRMED": 859,
+            "ISOLATED": 143,
+            "DESEASED": 3,
+            "RECOVERED": 713,
+            "DIST_LEVEL": 4
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "강원",
+            "CONFIRMED": 35,
+            "ISOLATED": 28,
+            "DESEASED": 0,
+            "RECOVERED": 7,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "경기",
+            "CONFIRMED": 602,
+            "ISOLATED": -292,
+            "DESEASED": 7,
+            "RECOVERED": 887,
+            "DIST_LEVEL": 4
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "인천",
+            "CONFIRMED": 102,
+            "ISOLATED": 27,
+            "DESEASED": 1,
+            "RECOVERED": 74,
+            "DIST_LEVEL": 4
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "충북",
+            "CONFIRMED": 18,
+            "ISOLATED": -11,
+            "DESEASED": 0,
+            "RECOVERED": 29,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "대전",
+            "CONFIRMED": 33,
+            "ISOLATED": 26,
+            "DESEASED": 0,
+            "RECOVERED": 7,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "충남",
+            "CONFIRMED": 57,
+            "ISOLATED": 30,
+            "DESEASED": 0,
+            "RECOVERED": 27,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "전북",
+            "CONFIRMED": 38,
+            "ISOLATED": 23,
+            "DESEASED": 0,
+            "RECOVERED": 15,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "광주",
+            "CONFIRMED": 26,
+            "ISOLATED": 12,
+            "DESEASED": 0,
+            "RECOVERED": 14,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "전남",
+            "CONFIRMED": 19,
+            "ISOLATED": 12,
+            "DESEASED": 0,
+            "RECOVERED": 7,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "경남",
+            "CONFIRMED": 46,
+            "ISOLATED": 19,
+            "DESEASED": 0,
+            "RECOVERED": 27,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "경북",
+            "CONFIRMED": 34,
+            "ISOLATED": -2,
+            "DESEASED": 0,
+            "RECOVERED": 36,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "울산",
+            "CONFIRMED": 4,
+            "ISOLATED": -1,
+            "DESEASED": 0,
+            "RECOVERED": 5,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "부산",
+            "CONFIRMED": 68,
+            "ISOLATED": 15,
+            "DESEASED": 0,
+            "RECOVERED": 53,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "대구",
+            "CONFIRMED": 49,
+            "ISOLATED": 18,
+            "DESEASED": 1,
+            "RECOVERED": 30,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "제주",
+            "CONFIRMED": 10,
+            "ISOLATED": -1,
+            "DESEASED": 0,
+            "RECOVERED": 11,
+            "DIST_LEVEL": 3
+        },
+        {
+            "DATE": "2021-11-15",
+            "NAME": "세종",
+            "CONFIRMED": 1,
+            "ISOLATED": 0,
+            "DESEASED": 0,
+            "RECOVERED": 1,
+            "DIST_LEVEL": 3
+        }
+    ]
+}

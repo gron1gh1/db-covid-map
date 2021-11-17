@@ -55,7 +55,7 @@ function AreaPage() {
       </div>
       <StyleArea>
         <div className="map">
-          <DistLevel onAreaClick={setArea} top={60} />
+          <DistLevel onAreaClick={setArea} top={0} />
           <Korea onAreaClick={setArea} />
         </div>
         <div>

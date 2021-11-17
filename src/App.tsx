@@ -13,7 +13,7 @@ const { Header, Content, Footer } = Layout;
 function App() {
   return (
     <Layout className="layout">
-      <Router>
+      <Router basename="/db-covid-map">
         <Header>
           <Menu theme="dark" mode="horizontal" defaultSelectedKeys={["1"]}>
             <Menu.Item key={"1"}>
@@ -43,8 +43,8 @@ function App() {
         </Header>
         <Content style={{ padding: "0 50px", height: "100vh" }}>
           <Routes>
-            <Route path="/daily" element={<DailyPage />} />
             <Route path="/" element={<AreaPage />} />
+            <Route path="/daily" element={<DailyPage />} />
             <Route path="/vaccine" element={<VaccinePage />} />
             <Route path="/user" element={<UserPage />} />
             <Route path="/login" element={<LoginPage />} />

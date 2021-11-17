@@ -28,8 +28,19 @@ function App() {
             </Menu.Item>
 
             <Menu.Item key={"4"}>
-              <Link to={"/user"}>유저 정보</Link>
+              <Link to={"/login"}>유저 정보</Link>
             </Menu.Item>
+
+            <div
+              style={{
+                position: "absolute",
+                right: "40px",
+                fontSize: "1.2rem",
+                cursor: "pointer",
+              }}
+            >
+              <Link to={"/user"}>로그인</Link>
+            </div>
           </Menu>
         </Header>
         <Content style={{ padding: "0 50px", height: "100vh" }}>

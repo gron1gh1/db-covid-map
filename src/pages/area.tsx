@@ -26,7 +26,7 @@ const StyleArea = styled.div`
   }
   .area_num {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin-bottom: 5px;
   }
 `;
@@ -63,7 +63,7 @@ function AreaPage() {
             <div className="chart">
               <BarChart
                 width={900}
-                height={700}
+                height={600}
                 data={areaData.AREA}
                 margin={{
                   top: 5,
@@ -111,8 +111,8 @@ function AreaPage() {
               </div>
               <div className="chart">
                 <BarChart
-                  width={900}
-                  height={300}
+                  width={800}
+                  height={250}
                   data={Object.entries(transAreaData[area])
                     .filter(
                       (v) =>

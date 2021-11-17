@@ -35,7 +35,7 @@ function VaccinePage() {
       <div className="chart">
         <AreaChart
           width={1200}
-          height={700}
+          height={600}
           data={VaccineData.VACCINE["2021-11-14"]}
           margin={{
             top: 10,

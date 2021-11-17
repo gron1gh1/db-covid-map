@@ -1,0 +1,31 @@
+﻿{
+  "VACCINE": {
+    "2021-11-14": [
+      {
+        "NAME": "아스트라제네카",
+        "VACC_ONCE": 11113635,
+        "VACC_FULLY": 11013371,
+        "VACC_BOOST": 0
+      },
+      {
+        "NAME": "화이자",
+        "VACC_ONCE": 22715072,
+        "VACC_FULLY": 21368355,
+        "VACC_BOOST": 701098
+      },
+      {
+        "NAME": "얀센",
+        "VACC_ONCE": 1493467,
+        "VACC_FULLY": 0,
+        "VACC_BOOST": 4158
+      },
+      {
+        "DATE": "2021-11-14",
+        "NAME": "모더나",
+        "VACC_ONCE": 6643036,
+        "VACC_FULLY": 6230365,
+        "VACC_BOOST": 335846
+      }
+    ]
+  }
+}
